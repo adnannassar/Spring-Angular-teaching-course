@@ -1,3 +1,4 @@
 # Project exclude paths
-/beispiel1/target/
+/*/target/
 /out/
+vcs.xml
